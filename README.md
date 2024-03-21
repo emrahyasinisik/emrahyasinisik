@@ -64,7 +64,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/emrahyasinisik/emrahyasinisik/output/snake.svg" alt="Snake animation" />
 
 ###
 
