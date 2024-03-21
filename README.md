@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" widht="1000" src=".github/workflows/minimalism-programming-code-wallpaper-preview.jpg"  />
+<!--   <img height="200" widht="1000" src=".github/workflows/minimalism-programming-code-wallpaper-preview.jpg"  /> -->
 </div>
 
 ###
