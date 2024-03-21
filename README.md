@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1ZUPqHIq3ltoqH34CZd5VKtJrgN8quIuc/view?usp=sharing"  />
+  <img height="150" src=".github/workflows/minimalism-programming-code-wallpaper-preview.jpg"  />
 </div>
 
 ###
