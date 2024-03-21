@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=emrahyasinisik.emrahyasinisik&"  />
+<!--   <img src="https://visitor-badge.laobi.icu/badge?page_id=emrahyasinisik.emrahyasinisik&"  /> -->
 </div>
 
 ###
