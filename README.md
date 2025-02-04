@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Hello, I am Emrah Yasin Işık. I am new junior flutter developer. I live in Malatya</p>
+<p align="left">Hello, I am Emrah Yasin Işık. I am junior plus mobile developer.</p>
 
 ###
 
