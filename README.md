@@ -1,8 +1,11 @@
 ![](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 **<h3 align="left">Connect with me:</h3>** 
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: left;"><img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" height="100" alt="Flutter" style="margin-right: 12px"> 
 <p align="left"><a href="https://www.linkedin.com/in/emrahyasinisik" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="100" style="margin-right: 4px"></a></p>
 <p align="left"><a href="https://www.linkedin.com/in/emrahyasinisik" target="_blank"><img src="https://miro.medium.com/1*652P1AKOUT1QTwswDDu0QA.gif" height="100" style="margin-right: 4px"></a></p>
+
+</div>
 
  **<h3 align="left">Skills</h3>**
 
