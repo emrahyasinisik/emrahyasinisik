@@ -3,7 +3,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: left;">
 <a href="https://www.linkedin.com/in/emrahyasinisik" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="100" style="margin-right: 4px"></a>
-<a href="https://www.medium.com/emrahyasinisik" target="_blank"><img src="https://miro.medium.com/1*652P1AKOUT1QTwswDDu0QA.gif" height="100" style="margin-right: 4px"></a>
+<a href="https://medium.com/@emrahyasinisik" target="_blank"><img src="https://miro.medium.com/1*652P1AKOUT1QTwswDDu0QA.gif" height="100" style="margin-right: 4px"></a>
 
 </div>
 
